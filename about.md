@@ -1,20 +1,20 @@
 ---
 layout: page
-title: About Pixyll
+title: About Me
 permalink: /about/
 tags: about
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+My name is Bo Yang(杨博), a programmer living in San Jose, CA. For years I have touched a variety of topics like Linux/Unix, Distributed Systems, Networking, Machine Learning, Computer Vision and Bioinfomatics, etc.
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
-
-Thanks to the following:
-
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Type Scale](http://type-scale.com/)
+<ul>
+    <li>
+    <a href="https://www.linkedin.com/in/boyanglink" target="_blank"><i class="fa fa-linkedin fa-2x"></i>&nbsp;</a> &nbsp;&nbsp;
+	<a href="https://github.com/bo-yang" target="_blank"><i class="fa fa-github fa-2x"></i>&nbsp;</a> &nbsp;&nbsp;
+	<a href="https://www.facebook.com/bo.yang.52493" target="_blank"><i class="fa fa-facebook fa-2x"></i>&nbsp;</a>&nbsp;&nbsp;
+	<a href="https://twitter.com/bonnyang" target="_blank"><i class="fa fa-twitter fa-2x"></i>&nbsp;</a>&nbsp;&nbsp;
+	<a href="http://www.weibo.com/bonnyang" target="_blank"><i class="fa fa-weibo fa-2x"></i>&nbsp;</a>
+    </li>
+	<li><a href="http://blog.csdn.net/bonny95">My CSDN Chinese Blog(Obsolete)</a></li>
+	<li><a href="mailto:bonny95@gmail.com"><i class="fa fa-envelope fa-2x"></i>&nbsp;bonny95 (at) gmail.com</a></li>
+</ul>
